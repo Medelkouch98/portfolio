@@ -1,0 +1,201 @@
+{
+  "basics": {
+    "name": "Mohammed EL KOUCH",
+    "alias": "medelkouch",
+    "label": "Développeur FullStack",
+    "image": "/me.webp",
+    "email": "mohammed.elkouch1998@gmail.com",
+    "phone": "+212 701292507",
+    "url": "https://medelkouch.com",
+    "contact_tooltips": {
+      "mail": "Envoyer un e-mail à Mohammed",
+      "phone": "Appeler Mohammed",
+      "GitHub": "Accéder au profil GitHub de Mohammed",
+      "LinkedIn": "Accéder au profil LinkedIn de Mohammed",
+      "download": "Télécharger le CV"
+    },
+    "about": {
+      "title": "À Propos de Moi",
+      "summary": "Développeur full-stack expérimenté avec plus de trois ans d'expérience professionnelle dans la conception et la mise en œuvre d'applications web évolutives en utilisant Angular, NestJS et TypeScript. Compétent pour fournir des solutions à fort impact qui améliorent les performances, la satisfaction des utilisateurs et optimisent les opérations. Expert en développement front-end et back-end, avec un fort accent sur le mentorat et la collaboration en équipe."
+    },
+    "location": {
+      "postalCode": "111160",
+      "city": "Salé",
+      "countryCode": "MA",
+      "region": "Maroc"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Medelkouch98",
+        "url": "https://github.com/medelkouch98"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Mohammed EL KOUCH",
+        "url": "https://www.linkedin.com/in/mohammed-el-kouch/"
+      }
+    ]
+  },
+
+  "experience": {
+    "title": "Expérience",
+    "jobs": [
+      {
+        "position": "Développeur Full Stack",
+        "company": "Elham",
+        "startDate": "02/2024",
+        "endDate": "",
+        "stillWorking": "Actuellement",
+        "summary": {
+          "main": "Dans mon rôle actuel chez Elham, je travaille sur le projet Elham en tant que développeur frontend, en mettant l'accent sur la création d'interfaces réactives et conviviales à l'aide d'Angular. Mon travail met l'accent sur la livraison de conceptions de haute qualité et attrayantes pour la plateforme éducative. Auparavant, dans ce poste, j'ai contribué au projet Maher en tant que développeur full stack, où j'ai développé des solutions évolutives en utilisant Nx workspace, NestJS, PostgreSQL, AWS et Angular. Voici un aperçu de mes contributions et responsabilités tout au long du projet :",
+          "extra": {
+            "bullet_points": [
+              "Augmentation de l'efficacité du système de 20 % en dirigeant le développement et le déploiement d'une application full stack en utilisant Nx workspace, NestJS, PostgreSQL, AWS et Angular.",
+              "Réduction des défauts de code de 15 % en adoptant des méthodologies de développement piloté par les tests (TDD) et en garantissant des versions de haute qualité.",
+              "Initiatives de mentorat pour les développeurs juniors, améliorant l'efficacité d'intégration et réduisant le temps de montée en compétence de 30 %.",
+              "Migration réussie des systèmes hérités vers une architecture moderne et évolutive, réduisant les coûts opérationnels de 25 %."
+            ]
+          }
+        }
+      },
+      {
+        "position": "Développeur Full Stack",
+        "company": "Aba Technology",
+        "startDate": "01/2022",
+        "endDate": "01/2024",
+        "stillWorking": "",
+        "summary": {
+          "main": "Dans mon précédent rôle chez Aba Technology, j'ai contribué de manière significative à la plateforme de services électroniques pour la DMP (Direction des Médicaments et de la Pharmacie) en tant que développeur full stack. Cette plateforme innovante est dédiée à l'évaluation des dossiers d'enregistrement et au contrôle de qualité de divers produits de santé, y compris les médicaments. Voici un aperçu de mes contributions et responsabilités tout au long du projet :",
+          "extra": {
+            "bullet_points": [
+              "Conception et mise en œuvre d'API RESTful, optimisation des requêtes de base de données et amélioration de la vitesse de récupération des données de 25 %.",
+              "Ajout de fonctionnalités à forte valeur ajoutée aux applications en utilisant Angular et NestJS, augmentant les scores de satisfaction des utilisateurs finaux de 30 %.",
+              "Résolution de bugs critiques et amélioration de la disponibilité du système de 15 %, garantissant un fonctionnement fluide pour les clients d'entreprise.",
+              "Organisation d'ateliers d'équipe hebdomadaires, partage des meilleures pratiques en JavaScript et Angular, et promotion d'une culture d'apprentissage continu."
+            ]
+          }
+        }
+      },
+      {
+        "position": "Développeur Full Stack",
+        "company": "Novaxys",
+        "startDate": "06/2021",
+        "endDate": "12/2021",
+        "stillWorking": "",
+        "summary": {
+          "main": "En tant que développeur full stack chez Novaxys, de juin 2021 à décembre 2021 à Casablanca, Maroc, je me suis concentré sur la livraison d'applications web performantes et évolutives adaptées à des projets internationaux à grande échelle. Voici un résumé de mes contributions et réalisations :",
+          "extra": {
+            "bullet_points": [
+              "Amélioration des performances de 20 % en concevant des applications web réactives et évolutives avec Angular, Python et Node.js.",
+              "Réduction des délais de projet de 30 % en mettant en œuvre des workflows efficaces et des composants réutilisables pour des projets internationaux à grande échelle.",
+              "Collaboration avec des équipes interfonctionnelles pour résoudre les problèmes de déploiement, assurant 99 % de succès dans les livraisons des projets."
+            ]
+          }
+        }
+      }
+    ]
+  },
+
+  "education": {
+    "title": "Éducation",
+    "list": [
+      {
+        "institution": "École Nationale des Sciences Appliquées Ibn Tofail",
+        "url": "https://ensa.uit.ac.ma/",
+        "area": "Master en Gestion des Systèmes et Produits, Ingénierie/Gestion Industrielle",
+        "startDate": "09/2019",
+        "endDate": "08/2021"
+      }
+    ]
+  },
+
+  "certificates": {
+    "list": [
+      {
+        "name": "TypeScript Avancé - Un Cours de TypeScript de Niveau Production",
+        "date": "12/2024",
+        "issuer": "Udemy",
+        "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-00a06b88-7037-46c3-a3a5-3ecef2fa8fe8.jpg"
+      },
+      {
+        "name": "Microsoft Certified : Data Analyst Associate",
+        "date": "11/2022",
+        "issuer": "Microsoft",
+        "url": "https://www.credly.com/badges/f0af9142-769f-4272-9591-881798748096"
+      }
+    ]
+  },
+
+  "skills": {
+    "title": "Compétences",
+    "list": [
+      { "name": "HTML", "level": "Maître" },
+      { "name": "CSS", "level": "Maître" },
+      { "name": "JavaScript", "level": "Maître" },
+      { "name": "NodeJS", "level": "Maître" },
+      { "name": "TypeScript", "level": "Avancé" },
+      { "name": "Angular", "level": "Avancé" },
+      { "name": "NestJs", "level": "Avancé" },
+      { "name": "Tailwind", "level": "Intermédiaire" },
+      { "name": "Python", "level": "Intermédiaire" },
+      { "name": "FastApi", "level": "Intermédiaire" },
+      { "name": "Unit test", "level": "Intermédiaire" },
+      { "name": "React", "level": "Débutant" },
+      { "name": "Firebase", "level": "Intermédiaire" },
+      { "name": "OpenAI API", "level": "Intermédiaire" },
+      { "name": "AWS", "level": "Intermédiaire" },
+      { "name": "Git", "level": "Avancé" }
+    ]
+  },
+  "languages": {
+    "title": "Langues",
+    "list": [
+      { "language": "Arabe", "fluency": "Langue maternelle" },
+      { "language": "Anglais", "fluency": "Compétence professionnelle" },
+      { "language": "Français", "fluency": "Compétence professionnelle" }
+    ]
+  },
+  "projects": {
+    "title": "Projets",
+    "description": "Pour plus d'informations, visitez :",
+    "list": [
+      {
+        "name": "DMP– Plateforme de Services Électroniques",
+        "isActive": true,
+        "description": "Développement d'une plateforme complète pour la Direction des Médicaments et de la Pharmacie pour rationaliser les opérations administratives et améliorer l'accessibilité pour les prestataires de soins de santé.",
+        "highlights": [
+          "NestJS",
+          "Angular",
+          "Tailwind",
+          "TypeScript",
+          "MongoDB",
+          "Nx Workspace"
+        ],
+        "url": "https://dmp.sante.gov.ma/e-services"
+      },
+      {
+        "name": "Elham– Outil Web pour les Systèmes Éducatifs",
+        "isActive": true,
+        "description": "Développement d'une plateforme pour les organisations afin de créer, gérer et suivre les programmes de formation.",
+        "highlights": ["Angular", "Tailwind", "TypeScript"],
+        "url": "https://www.elham.sa/en/home"
+      },
+      {
+        "name": "Maher– Plateforme de Gestion de Formation",
+        "isActive": true,
+        "description": "Création d'un outil pour optimiser les processus de formation et de développement, en automatisant la planification et les fonctionnalités de reporting.",
+        "highlights": [
+          "NestJS",
+          "Angular",
+          "Tailwind",
+          "TypeScript",
+          "PostgreSQL",
+          "PrismaORM",
+          "Nx Workspace"
+        ],
+        "url": "https://joinmaher.com/"
+      }
+    ]
+  }
+}

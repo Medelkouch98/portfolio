@@ -1,39 +1,39 @@
 {
   "basics": {
-    "name": "David Figuera",
-    "alias": "Seevt",
-    "label": "Frontend Developer",
+    "name": "Mohammed EL KOUCH",
+    "alias": "medelkouch",
+    "label": "FullStack Developer",
     "image": "/me.webp",
-    "email": "daavidjesuus2019@gmail.com",
-    "phone": "+34 611625243",
-    "url": "https://seevt.dev",
+    "email": "mohammed.elkouch1998@gmail.com",
+    "phone": "+212 701292507",
+    "url": "https://medelkouch.com",
     "contact_tooltips": {
-      "mail": "Send mail to David",
+      "mail": "Send mail to Mohammed",
       "phone": "Call Me",
-      "GitHub": "Go to David's GitHub Profile",
-      "LinkedIn": "Go to David's LinkedIn Profile",
+      "GitHub": "Go to Mohammed's GitHub Profile",
+      "LinkedIn": "Go to Mohammed's LinkedIn Profile",
       "download": "Download Resume"
     },
     "about": {
       "title": "About Me",
-      "summary": "Dynamic and detail-oriented Front-End Developer with proven experience in utilizing frameworks such as Vue.js, React.js, and Svelte. Known for delivering high-impact web applications that enhance user engagement through intuitive and aesthetically pleasing user interfaces. Demonstrates a strong commitment to continuously advancing technical skills in line with the latest industry trends."
+      "summary": "Experienced full-stack developer with over three years of professional experience in designing and implementing scalable web applications using Angular, NestJS, and TypeScript. Skilled at delivering high-impact solutions that drive performance improvements, enhance user satisfaction, and streamline operations. Proficient in both front-end and back-end development, with a strong focus on mentoring and team collaboration."
     },
     "location": {
-      "postalCode": "18015",
-      "city": "Granada",
-      "countryCode": "ES",
-      "region": "Spain"
+      "postalCode": "111160",
+      "city": "Sale",
+      "countryCode": "MA",
+      "region": "Morocco"
     },
     "profiles": [
       {
         "network": "GitHub",
-        "username": "Seevt",
-        "url": "https://github.com/Seevt"
+        "username": "Medelkouch98",
+        "url": "https://github.com/medelkouch98"
       },
       {
         "network": "LinkedIn",
-        "username": "Seevt",
-        "url": "https://linkedin.com/in/david-jesús-figuera-marquez-33a593261"
+        "username": "mohammed el kouch",
+        "url": "https://www.linkedin.com/in/mohammed-el-kouch/"
       }
     ]
   },
@@ -42,52 +42,57 @@
     "title": "Experience",
     "jobs": [
       {
-        "position": "Front-end Developer",
-        "company": "Dimpoint",
-        "startDate": "09/2023",
+        "position": "Full Stack Developer",
+        "company": "Elham",
+        "startDate": "02/2024",
         "endDate": "",
         "stillWorking": "Present",
 
         "summary": {
-          "main": "In my current role at Dimpoint Studios, I am working on a project to completely revamp and implement an Illustrator design for the company's portfolio. My focus is on using Nuxt and advanced CSS techniques to develop a responsive and visually appealing user interface. Previously, In this position, I played a key role in developing solutions using Vue 3, GSAP, Tailwind for the development of Aizhak Coffee:",
+          "main": "In my current role at Elham, I am working on the Elham project as a Frontend Developer, focusing on creating responsive and user-friendly interfaces using Angular. My work emphasizes delivering high-quality, visually appealing designs for the educational platform. Previously, in this position, I contributed to the Maher project as a Full Stack Developer, where I developed scalable solutions using Nx workspace, NestJS, PostgreSQL, AWS, and Angular.Here's a glimpse of my contributions and responsibilities throughout the project:",
           "extra": {
             "bullet_points": [
-              "Collaborated closely with the designer, product manager, marketing, and other developers.",
-              "Translated creative concepts into functional interfaces, optimizing for performance and responsiveness.",
-              "I implemented complex animations using GSAP and the Vue animation API."
+              "Increased system efficiency by 20% by leading the development and deployment of a full-stack application using Nx workspace, NestJs, PostgreSQL, AWS, and Angular.",
+              "Reduced code defects by 15% by adopting test-driven development (TDD) methodologies and ensuring high-quality releases.",
+              "Spearheaded mentoring initiatives for junior developers, improving onboarding efficiency and reducing ramp-up time by 30%.",
+              "Successfully migrated legacy systems to a modern, scalable architecture, cutting operational costs by 25%."
             ]
           }
         }
       },
 
       {
-        "position": "Front-end Developer",
-        "company": "Deduce Data Solutions",
+        "position": "Full Stack Developer",
+        "company": "Aba Technology",
         "stillWorking": "",
-        "startDate": "06/2022",
-        "endDate": "08/2023",
+        "startDate": "01/2022",
+        "endDate": "01/2024",
         "summary": {
-          "main": "In my role at Deduce Data Solutions, I was instrumental in developing the company's website from scratch, using Vue.js integrated with Nuxt.js and Storyblok CMS. In this project, I received a design from Figma to translate into code and enhance with additional dynamics such as 3D graphics libraries. I implemented a pagination system for the blog and, utilizing the Storyblok API and developed a multi-language system to support various languages.",
+          "main": "In my previous role at ABA Technology, I contributed significantly to the E-services Platform for DMP (Direction des Médicaments et de la Pharmacie) as a Full Stack Developer. This innovative platform is dedicated to the evaluation of registration files and quality control of various health products, including medicines. Here's a glimpse of my contributions and responsibilities throughout the project:",
           "extra": {
-            "bullet_points": []
+            "bullet_points": [
+              "Designed and implemented RESTful APIs, optimizing database queries and improving data retrieval speed by 25% .",
+              "Added high-value features to applications using Angular and NestJS, increasing end-user satisfaction scores by 30%.",
+              "Resolved critical bugs and improved system uptime by 15%, ensuring smooth operations for enterprise clients.",
+              "Conducted weekly team workshops, sharing best practices in JavaScript and Angular, and fostering a culture of continuous learning."
+            ]
           }
         }
       },
 
       {
-        "position": "Jr. Front-end Developer",
-        "company": "Freelance",
-        "startDate": "03/2021",
-        "endDate": "01/2022",
+        "position": "Full Stack Developer",
+        "company": "Novaxys",
+        "startDate": "06/2021",
+        "endDate": "12/2021",
         "stillWorking": "",
         "summary": {
-          "main": "During my time as a freelance front-end developer, I led and contributed to multiple impactful projects that showcased my expertise in modern web technologies and user experience design. Highlights of my work include:",
+          "main": "In my role as a Full Stack Developer at Novaxys from June 2021 to December 2021 in Casablanca, Morocco, I focused on delivering high-performance, scalable web applications tailored to large-scale international projects. Here’s a summary of my contributions and achievements:",
           "extra": {
             "bullet_points": [
-              "Rebranded a website by implementing a new color scheme and CSS theming system. Ensured consistent and appealing visual indentity across all pages and improved the user experience and accesibility.",
-              "Successfully migrated the existing church website to Subsplash CMS, redesigned and organized information as per the client’s requirements, enhancing clarity and user navigation.",
-              "I added a events, email and calendar system consuming the Subsplash API’s.",
-              "Developed a social media app for food enthusiasts improving accessibility. Integrated Firebase for seamless data management and real-time updates."
+              "Delivered a 20% performance boost by designing responsive, scalable web applications with Angular, Python, and Node.js.",
+              "Reduced project timelines by 30% by implementing efficient workflows and reusable components for large-scale international projects.",
+              "Collaborated with cross-functional teams to troubleshoot deployment issues, ensuring 99% successful project deliveries."
             ]
           }
         }
@@ -99,18 +104,11 @@
     "title": "Education",
     "list": [
       {
-        "institution": "Univeristy of Granada",
-        "url": "https://www.ugr.es/",
-        "area": "Degree in Chemistry",
-        "startDate": null,
-        "endDate": "06/2023"
-      },
-      {
-        "institution": "IES Pedro Soto de Rojas",
-        "url": "https://iespedrosoto.es/",
-        "area": "Bachelors in Pure Sciences",
-        "startDate": null,
-        "endDate": "06/2019"
+        "institution": "National School of Applied Sciences Ibn Tofail",
+        "url": "https://ensa.uit.ac.ma/",
+        "area": "Master’s Degree in Systems and Products Management, Engineering/Industrial Management",
+        "startDate": "09/2019",
+        "endDate": "08/2021"
       }
     ]
   },
@@ -118,23 +116,16 @@
   "certificates": {
     "list": [
       {
-        "name": "Web Development with Vue 3",
-        "date": "01/2023",
-        "issuer": "ZeroToMastery",
-        "url": "https://zerotomastery.io/"
+        "name": "Advanced TypeScript - A Production-grade TypeScript Course",
+        "date": "12/2024",
+        "issuer": "Udemy",
+        "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-00a06b88-7037-46c3-a3a5-3ecef2fa8fe8.jpg"
       },
       {
-        "name": "JavaScript Structures and Algorithms",
+        "name": "Microsoft Certified : Data Analyst Associate",
         "date": "11/2022",
-        "issuer": "FreeCodeCamp",
-        "url": "https://www.freecodecamp.org/Seevt"
-      },
-      {
-        "name": "Responsive Web Design",
-        "studyType": "Certificate",
-        "date": "11/2023",
-        "issuer": "FreeCodeCamp",
-        "url": "https://www.freecodecamp.org/Seevt"
+        "issuer": "Microsoft",
+        "url": "https://www.credly.com/badges/f0af9142-769f-4272-9591-881798748096"
       }
     ]
   },
@@ -154,52 +145,57 @@
         "name": "JavaScript",
         "level": "Master"
       },
-
+      {
+        "name": "NodeJS",
+        "level": "Master"
+      },
       {
         "name": "TypeScript",
-        "level": "Avanzado"
+        "level": "Advanced"
+      },
+      {
+        "name": "Angular",
+        "level": "Advanced"
+      },
+      {
+        "name": "NestJs",
+        "level": "Advanced"
       },
       {
         "name": "Tailwind",
-        "level": "Avanzado"
+        "level": "Medium"
       },
       {
-        "name": "Vue/Nuxt.js",
-        "level": "Avanzado"
+        "name": "Python",
+        "level": "Medium"
       },
-
       {
-        "name": "Svelte/SvelteKit.js",
-        "level": "Medio"
+        "name": "FastApi",
+        "level": "Medium"
+      },
+      {
+        "name": "Unit test",
+        "level": "Medium"
       },
       {
         "name": "React",
-        "level": "Medio"
+        "level": "Basics"
       },
-      {
-        "name": "Astro",
-        "level": "Basico"
-      },
-
       {
         "name": "Firebase",
-        "level": "Medio"
+        "level": "Medium"
       },
       {
         "name": "OpenAI API",
-        "level": "Basico"
+        "level": "Medium"
       },
       {
-        "name": "SASS",
-        "level": "Basico"
-      },
-      {
-        "name": "StoryBlok CMS",
-        "level": "Medio"
+        "name": "AWS",
+        "level": "Medium"
       },
       {
         "name": "Git",
-        "level": "Avanzado"
+        "level": "Advanced"
       }
     ]
   },
@@ -207,12 +203,16 @@
     "title": "Languages",
     "list": [
       {
-        "language": "Spanish",
+        "language": "Arabic",
         "fluency": "Native speaker"
       },
       {
         "language": "English",
-        "fluency": "B2"
+        "fluency": "Professional working proficiency"
+      },
+      {
+        "language": "French",
+        "fluency": "Professional working proficiency"
       }
     ]
   },
@@ -221,47 +221,40 @@
     "description": "For more information, visit:",
     "list": [
       {
-        "name": "Aizhak Coffee",
+        "name": "DMP– E-services Platform",
         "isActive": true,
-        "description": "Aizhak's Coffee Experience website is an interactive platform designed to showcase Aizhak's expertise in coffee",
-        "highlights": ["GSAP", "Vue.js", "Tailwind"],
-        "url": "https://aizhak.com/"
+        "description": "Built a comprehensive platform for the Directorate of Medicines and Pharmacy to streamline administrative operations and enhance accessibility for healthcare providers",
+        "highlights": [
+          "NestJS",
+          "Angular",
+          "Tailwind",
+          "TypeScript",
+          "MongoDB",
+          "Nx Workspace"
+        ],
+        "url": "https://dmp.sante.gov.ma/e-services"
       },
       {
-        "name": "Sanctuary Christian Center",
+        "name": "Elham– Educational System Web Tool",
         "isActive": true,
-        "description": "This website highlights the church mission, values, and community activities, inviting visitors to engage in worship and fellowship.",
-        "highlights": ["JS", "Subsplash", "Headless CMS"],
-        "url": "https://thesanctuarychristiancenter.snappages.site/"
+        "description": "Developed a platform for organizations to create, manage, and monitor training programs.",
+        "highlights": ["Angular", "Tailwind", "TypeScript"],
+        "url": "https://www.elham.sa/en/home"
       },
       {
-        "name": "Deduce Data Solutions",
+        "name": "Maher– Training Management Platform",
         "isActive": true,
-        "description": "Company's Website and Newsletter",
-        "highlights": ["Tailwind", "Nuxt", "StoryBlok CMS"],
-        "url": "https://deducedata.solutions/es/products"
-      },
-      {
-        "name": "QuizMeGPT",
-        "isActive": true,
-        "description": "Interactive Web App that generates quizes about your prefered topics using AI",
-        "highlights": ["CSS", "Vue", "IA", "Firebase"],
-        "url": "https://quizmegpt.seevt.dev",
-        "github": "https://quizmegpt.seevt.dev"
-      },
-      {
-        "name": "Svelte Weather",
-        "isActive": true,
-        "description": "Weather app with Interactive background",
-        "highlights": ["Tailwind", "Svelte", "WeatherAPI"],
-        "url": "https://weather.seevt.dev"
-      },
-      {
-        "name": "React Tetris",
-        "isActive": true,
-        "description": "Recreating the classic Tetris Game using React",
-        "highlights": ["Styled Comps", "React", "Game"],
-        "url": "https://tetris.seevt.dev/"
+        "description": "Created a tool to optimize training and development processes, automating scheduling and reporting functionalities.",
+        "highlights": [
+          "NestJS",
+          "Angular",
+          "Tailwind",
+          "TypeScript",
+          "PostgreSQL",
+          "PrismaORM",
+          "Nx Workspace"
+        ],
+        "url": "https://joinmaher.com/"
       }
     ]
   }

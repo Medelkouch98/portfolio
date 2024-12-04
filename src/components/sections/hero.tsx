@@ -1,6 +1,6 @@
 import Contact from "@/components/contact";
 import Image from "next/image";
-import ProfilePic from "@/assets/images/fotocarne.png";
+import ProfilePic from "@/assets/images/medelkouch.jpg";
 import Worldmap from "@/components/icons/worldmap";
 import About from "@/components/sections/about";
 import { useTranslations } from "next-intl";
