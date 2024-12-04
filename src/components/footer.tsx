@@ -2,7 +2,7 @@ function Footer() {
   return (
     <>
       <footer className="mb-8 flex items-center justify-center">
-        <span>© David Figuera. All Rights Reserved.</span>
+        <span>© Mohammed EL KOUCH. All Rights Reserved.</span>
       </footer>
     </>
   );
