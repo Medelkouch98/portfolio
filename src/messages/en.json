@@ -228,9 +228,9 @@
           "NestJS",
           "Angular",
           "Tailwind",
-          "TypeScript",
+          "TS",
           "MongoDB",
-          "Nx Workspace"
+          "Nx"
         ],
         "url": "https://dmp.sante.gov.ma/e-services"
       },
@@ -249,10 +249,10 @@
           "NestJS",
           "Angular",
           "Tailwind",
-          "TypeScript",
-          "PostgreSQL",
-          "PrismaORM",
-          "Nx Workspace"
+          "Ts",
+          "Postgres",
+          "Nx",
+          "PrismaORM"
         ],
         "url": "https://joinmaher.com/"
       }

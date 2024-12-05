@@ -165,13 +165,13 @@
         "isActive": true,
         "description": "Développement d'une plateforme complète pour la Direction des Médicaments et de la Pharmacie pour rationaliser les opérations administratives et améliorer l'accessibilité pour les prestataires de soins de santé.",
         "highlights": [
-          "NestJS",
-          "Angular",
-          "Tailwind",
-          "TypeScript",
-          "MongoDB",
-          "Nx Workspace"
-        ],
+            "NestJS",
+            "Angular",
+            "Tailwind",
+            "TS",
+            "MongoDB",
+            "Nx"
+          ],
         "url": "https://dmp.sante.gov.ma/e-services"
       },
       {
@@ -186,14 +186,14 @@
         "isActive": true,
         "description": "Création d'un outil pour optimiser les processus de formation et de développement, en automatisant la planification et les fonctionnalités de reporting.",
         "highlights": [
-          "NestJS",
-          "Angular",
-          "Tailwind",
-          "TypeScript",
-          "PostgreSQL",
-          "PrismaORM",
-          "Nx Workspace"
-        ],
+            "NestJS",
+            "Angular",
+            "Tailwind",
+            "Ts",
+            "Postgres",
+            "Nx",
+            "PrismaORM"
+          ],
         "url": "https://joinmaher.com/"
       }
     ]
