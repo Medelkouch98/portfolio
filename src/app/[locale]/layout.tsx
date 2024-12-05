@@ -57,7 +57,7 @@ const humane = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "David Figuera Portfolio",
+  title: "Med EL KOUCH Portfolio",
   description: "Portfolio personal"
 };
 
