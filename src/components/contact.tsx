@@ -20,8 +20,8 @@ function Contact() {
   const locale = useLocale();
 
   const portfolio_urls: Record<string, string> = {
-    en: "public/resume.pdf",
-    fr: "public/resume.pdf"
+    en: "resume.pdf",
+    fr: "resume.pdf"
   };
 
   return (
