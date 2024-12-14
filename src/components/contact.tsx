@@ -20,7 +20,8 @@ function Contact() {
   const locale = useLocale();
 
   const portfolio_urls: Record<string, string> = {
-    en: "https://drive.google.com/file/d/1Rrvw1m-FlHGBn61UQPXmKk7aSGGX4bxe/view?usp=sharing"
+    en: "public/resume.pdf",
+    fr: "public/resume.pdf"
   };
 
   return (
