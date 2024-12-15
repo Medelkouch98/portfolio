@@ -38,64 +38,94 @@
     ]
   },
 
-  "experience": {
-    "title": "Expérience",
-    "jobs": [
-      {
-        "position": "Développeur Full Stack",
-        "company": "Elham",
-        "startDate": "02/2024",
-        "endDate": "",
-        "stillWorking": "Actuellement",
-        "summary": {
-          "main": "Dans mon rôle actuel chez Elham, je travaille sur le projet Elham en tant que développeur frontend, en mettant l'accent sur la création d'interfaces réactives et conviviales à l'aide d'Angular. Mon travail met l'accent sur la livraison de conceptions de haute qualité et attrayantes pour la plateforme éducative. Auparavant, dans ce poste, j'ai contribué au projet Maher en tant que développeur full stack, où j'ai développé des solutions évolutives en utilisant Nx workspace, NestJS, PostgreSQL, AWS et Angular. Voici un aperçu de mes contributions et responsabilités tout au long du projet :",
-          "extra": {
-            "bullet_points": [
-              "Augmentation de l'efficacité du système de 20 % en dirigeant le développement et le déploiement d'une application full stack en utilisant Nx workspace, NestJS, PostgreSQL, AWS et Angular.",
-              "Réduction des défauts de code de 15 % en adoptant des méthodologies de développement piloté par les tests (TDD) et en garantissant des versions de haute qualité.",
-              "Initiatives de mentorat pour les développeurs juniors, améliorant l'efficacité d'intégration et réduisant le temps de montée en compétence de 30 %.",
-              "Migration réussie des systèmes hérités vers une architecture moderne et évolutive, réduisant les coûts opérationnels de 25 %."
-            ]
-          }
-        }
-      },
-      {
-        "position": "Développeur Full Stack",
-        "company": "Aba Technology",
-        "startDate": "01/2022",
-        "endDate": "01/2024",
-        "stillWorking": "",
-        "summary": {
-          "main": "Dans mon précédent rôle chez Aba Technology, j'ai contribué de manière significative à la plateforme de services électroniques pour la DMP (Direction des Médicaments et de la Pharmacie) en tant que développeur full stack. Cette plateforme innovante est dédiée à l'évaluation des dossiers d'enregistrement et au contrôle de qualité de divers produits de santé, y compris les médicaments. Voici un aperçu de mes contributions et responsabilités tout au long du projet :",
-          "extra": {
-            "bullet_points": [
-              "Conception et mise en œuvre d'API RESTful, optimisation des requêtes de base de données et amélioration de la vitesse de récupération des données de 25 %.",
-              "Ajout de fonctionnalités à forte valeur ajoutée aux applications en utilisant Angular et NestJS, augmentant les scores de satisfaction des utilisateurs finaux de 30 %.",
-              "Résolution de bugs critiques et amélioration de la disponibilité du système de 15 %, garantissant un fonctionnement fluide pour les clients d'entreprise.",
-              "Organisation d'ateliers d'équipe hebdomadaires, partage des meilleures pratiques en JavaScript et Angular, et promotion d'une culture d'apprentissage continu."
-            ]
-          }
-        }
-      },
-      {
-        "position": "Développeur Full Stack",
-        "company": "Novaxys",
-        "startDate": "06/2021",
-        "endDate": "12/2021",
-        "stillWorking": "",
-        "summary": {
-          "main": "En tant que développeur full stack chez Novaxys, de juin 2021 à décembre 2021 à Casablanca, Maroc, je me suis concentré sur la livraison d'applications web performantes et évolutives adaptées à des projets internationaux à grande échelle. Voici un résumé de mes contributions et réalisations :",
-          "extra": {
-            "bullet_points": [
-              "Amélioration des performances de 20 % en concevant des applications web réactives et évolutives avec Angular, Python et Node.js.",
-              "Réduction des délais de projet de 30 % en mettant en œuvre des workflows efficaces et des composants réutilisables pour des projets internationaux à grande échelle.",
-              "Collaboration avec des équipes interfonctionnelles pour résoudre les problèmes de déploiement, assurant 99 % de succès dans les livraisons des projets."
-            ]
-          }
+"experience": {
+  "title": "Expérience",
+  "jobs": [
+    {
+      "position": "Développeur Front-End",
+      "company": "Elham",
+      "startDate": "02/2024",
+      "endDate": "",
+      "stillWorking": "Actuellement",
+
+      "summary": {
+        "main": "Elham est une plateforme d'expérience d'apprentissage (LXP) conçue pour stimuler et soutenir l'apprentissage continu dans les organisations en créant, gérant et suivant facilement des programmes de formation. Voici un aperçu de mes contributions et responsabilités tout au long du projet :",
+        "extra": {
+          "bullet_points": [
+            "Réalisé une migration complète d'Angular15 à Angular19, en utilisant les outils de migration d'Angular pour assurer une transition fluide.",
+            "Collaboré avec les développeurs backend pour intégrer des API RESTful, garantissant une récupération et une manipulation efficaces des données.",
+            "Implémenté le chargement différé et la modularisation pour optimiser les performances et les temps de chargement de l'application.",
+            "Refactorisé le code existant pour l'aligner avec l'architecture moderne d'Angular, améliorant la lisibilité et la maintenabilité du code.",
+            "Effectué des tests unitaires et d'intégration pour vérifier la fonctionnalité et la fiabilité des composants migrés."
+          ]
         }
       }
-    ]
-  },
+    },
+    {
+      "position": "Développeur Full-Stack",
+      "company": "Elham",
+      "startDate": "02/2024",
+      "endDate": "08/2024",
+      "stillWorking": "",
+
+      "summary": {
+        "main": "Maher est un assistant intelligent conçu pour rationaliser les opérations de formation et de développement au sein des organisations. Il automatise les processus de manière systématique et utilise une technologie intelligente à chaque étape pour rendre les tâches mieux organisées, mieux traitées, plus précisément évaluées et plus rapides en termes de retour d'information. Voici un aperçu de mes contributions et responsabilités tout au long du projet :",
+        "extra": {
+          "bullet_points": [
+            "Développé l'architecture backend en utilisant NestJS, en implémentant des API RESTful pour un échange de données fluide.",
+            "Conçu et géré le schéma de base de données PostgreSQL, garantissant l'intégrité des données et une interrogation efficace.",
+            "Utilisé PrismaORM pour les interactions avec la base de données, simplifiant la modélisation et les migrations de données.",
+            "Créé des interfaces utilisateur dynamiques et réactives avec Angular18, améliorant l'engagement des utilisateurs.",
+            "Intégré Keycloak pour mettre en œuvre des mécanismes d'authentification et d'autorisation, sécurisant la plateforme.",
+            "Effectué des tests et du débogage complets pour maintenir des normes de qualité de code élevées.",
+            "Généré une documentation API complète en utilisant OpenAPI (Swagger) avec NestJS, facilitant une communication claire et une utilisation facile pour les développeurs."
+          ]
+        }
+      }
+    },
+    {
+      "position": "Développeur Full-Stack",
+      "company": "Aba Technology",
+      "stillWorking": "",
+      "startDate": "01/2022",
+      "endDate": "01/2024",
+      "summary": {
+        "main": "E-services est une plateforme numérique qui simplifie l'évaluation des dossiers d'inscription et le contrôle qualité pour divers produits de santé, y compris les médicaments. Cette initiative améliore la transparence, l'efficacité et l'accessibilité pour les parties prenantes du secteur pharmaceutique. Voici un aperçu de mes contributions et responsabilités tout au long du projet :",
+        "extra": {
+          "bullet_points": [
+            "Collaboré avec des équipes interfonctionnelles pour comprendre la portée et les objectifs du projet.",
+            "Évalué les programmes logiciels existants, identifiant les domaines à améliorer et à optimiser.",
+            "Effectué des recherches de marché approfondies et des analyses de la concurrence pour rester à jour avec les tendances de l'industrie et les meilleures pratiques.",
+            "Écrit un code propre, efficace et évolutif pour créer les composants principaux de la plateforme E-services.",
+            "Débogué et résolu rapidement les problèmes pour maintenir une fonctionnalité sans faille.",
+            "Recommandé et mis en œuvre activement des améliorations de l'application basées sur les retours des utilisateurs et les technologies émergentes.",
+            "Travaillé en étroite collaboration avec l'équipe pour mettre en œuvre des mises à jour et des améliorations, améliorant l'expérience utilisateur de la plateforme.",
+            "Fournit un support rapide pour résoudre tout problème technique ou défi rencontré par les utilisateurs.",
+            "Implémenté les principes d'architecture microservices pour garantir une communication efficace et une flexibilité au sein du système."
+          ]
+        }
+      }
+    },
+
+    {
+      "position": "Développeur Full-Stack",
+      "company": "Novaxys",
+      "startDate": "06/2021",
+      "endDate": "12/2021",
+      "stillWorking": "",
+      "summary": {
+        "main": "Novaxys est une société de conseil et de solutions informatiques, spécialisée dans la transformation numérique. L'un de leurs projets notables est le développement d'une application de fidélité similaire à Kenz'up, conçue pour renforcer l'engagement et la fidélisation des clients pour les institutions financières. Voici un aperçu de mes contributions et responsabilités tout au long du projet :",
+        "extra": {
+          "bullet_points": [
+            "Intégration fluide avec des magasins partenaires, permettant aux utilisateurs de gagner et d'utiliser des points de fidélité facilement.",
+            "Options de paiement sécurisées permettant aux utilisateurs de payer avec leurs cartes de crédit directement via l'application, en utilisant des outils comme Stripe et PayPal pour des transactions sécurisées.",
+            "Suivi en temps réel des points gagnés et utilisés, offrant transparence et encouragement à l'engagement des utilisateurs."
+          ]
+        }
+      }
+    }
+  ]
+},
 
   "education": {
     "title": "Éducation",
@@ -161,7 +191,7 @@
     "description": "Pour plus d'informations, visitez :",
     "list": [
       {
-        "name": "DMP– Plateforme de Services Électroniques",
+        "name": "DMP– Plateforme de E-Services",
         "isActive": true,
         "description": "Développement d'une plateforme complète pour la Direction des Médicaments et de la Pharmacie pour rationaliser les opérations administratives et améliorer l'accessibilité pour les prestataires de soins de santé.",
         "highlights": [
@@ -175,14 +205,14 @@
         "url": "https://dmp.sante.gov.ma/e-services"
       },
       {
-        "name": "Elham– Outil Web pour les Systèmes Éducatifs",
+        "name": "Elham– LXP Platforme",
         "isActive": true,
         "description": "Développement d'une plateforme pour les organisations afin de créer, gérer et suivre les programmes de formation.",
         "highlights": ["Angular", "Tailwind", "TypeScript"],
         "url": "https://www.elham.sa/en/home"
       },
       {
-        "name": "Maher– Plateforme de Gestion de Formation",
+        "name": "Maher– Assistant de Formation",
         "isActive": true,
         "description": "Création d'un outil pour optimiser les processus de formation et de développement, en automatisant la planification et les fonctionnalités de reporting.",
         "highlights": [

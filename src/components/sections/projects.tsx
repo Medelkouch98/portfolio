@@ -1,4 +1,5 @@
 import { useTranslations } from "next-intl";
+import { EyeIcon } from "@heroicons/react/24/outline";
 
 function Projects() {
   const t = useTranslations("projects");
@@ -13,8 +14,11 @@ function Projects() {
                 <div className="space-y-2">
                   {project.isActive ? (
                     <h3 className="heading-3-humane text-lg font-bold hover:underline">
-                      <a href={project.url} className="w-fit" target="_blank">
-                        {project.name}
+                      <a href={project.url} className="flex items-center w-fit gap-2" target="_blank">
+                        <span>{project.name}</span>
+                        <span>
+                          <EyeIcon className="w-10 h-10 text-gray-500 hover:text-gray-700" />
+                        </span>
                       </a>
                     </h3>
                   ) : (
