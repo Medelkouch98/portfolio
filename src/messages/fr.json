@@ -141,6 +141,7 @@
   },
 
   "certificates": {
+    "title": "Certifications",
     "list": [
       {
         "name": "TypeScript Avancé - Un Cours de TypeScript de Niveau Production",

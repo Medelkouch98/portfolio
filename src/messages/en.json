@@ -141,6 +141,7 @@
   },
 
   "certificates": {
+    "title": "Certificates",
     "list": [
       {
         "name": "Advanced TypeScript - A Production-grade TypeScript Course",

@@ -1,4 +1,5 @@
 import { useTranslations } from "next-intl";
+import { EyeIcon } from "@heroicons/react/24/outline";
 
 interface EducationItem {
   institution: string;
@@ -27,16 +28,19 @@ function Education() {
                 <header className="flex items-center justify-between">
                   <h3 className="heading-3-geist text-fluid-md max-md:text-fluid-base">
                     <a
-                      className="url"
+                      className="url flex w-fit items-center gap-2"
                       href={item.url}
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      {item.institution}
+                      <span>{item.institution}</span>
+                      <span>
+                        <EyeIcon className="h-5 w-5 text-gray-500 hover:text-gray-700" />
+                      </span>
                     </a>
                   </h3>
                   <time
-                    className="rounded-custom border-outline-color self-start border px-4 py-1 text-xs"
+                    className="self-start rounded-custom border border-outline-color px-4 py-1 text-xs"
                     dateTime={item.endDate}
                   >
                     {item.endDate}
@@ -48,7 +52,9 @@ function Education() {
           );
         })}
       </ul>
-      <Certificates />
+      <div className="mt-8">
+        <Certificates />
+      </div>
     </>
   );
 }
@@ -58,6 +64,7 @@ function Certificates() {
 
   return (
     <>
+      <h2 className="heading-2-humane text-fluid-4xl">{t("title")}</h2>
       <ul className="mt-4 space-y-4">
         {t.raw("list").map((item: CertificatesItem) => {
           return (
@@ -66,16 +73,19 @@ function Certificates() {
                 <header className="flex items-center justify-between">
                   <h3 className="heading-3-geist text-fluid-md max-md:text-fluid-base">
                     <a
-                      className="url"
+                      className="url flex w-fit items-center gap-2"
                       href={item.url}
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      {item.issuer}
+                      <span>{item.issuer}</span>
+                      <span>
+                        <EyeIcon className="h-5 w-5 text-gray-500 hover:text-gray-700" />
+                      </span>
                     </a>
                   </h3>
                   <time
-                    className="rounded-custom border-outline-color self-start border px-4 py-1 text-xs"
+                    className="self-start rounded-custom border border-outline-color px-4 py-1 text-xs"
                     dateTime={item.date}
                   >
                     {item.date}
