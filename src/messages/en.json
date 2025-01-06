@@ -283,6 +283,20 @@
           "PrismaORM"
         ],
         "url": "https://joinmaher.com/"
+      },
+      {
+        "name": "CasePuppy - E-Shop for Custom Phone Cases",
+        "isActive": true,
+        "description": "CasePuppy offers customizable, high-quality phone cases for modern iPhone models, allowing you to personalize your device with your own photos.",
+        "highlights": [
+          "Next 14",
+          "Tailwind",
+          "Ts",
+          "Postgres",
+          "Kinde Auth",
+          "PrismaORM"
+        ],
+        "url": "https://casepuppy.vercel.app"
       }
     ]
   }

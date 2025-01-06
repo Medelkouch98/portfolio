@@ -226,6 +226,20 @@
             "PrismaORM"
           ],
         "url": "https://joinmaher.com/"
+      },
+      {
+        "name": "CasePuppy - E-Shop pour les coques de téléphone personnalisées",
+        "isActive": true,
+        "description": "CasePuppy propose des coques de téléphone personnalisables et de haute qualité pour les modèles d'iPhone modernes, vous permettant de personnaliser votre appareil avec vos propres photos.",
+        "highlights": [
+          "Next 14",
+          "Tailwind",
+          "Ts",
+          "Postgres",
+          "Kinde Auth",
+          "PrismaORM"
+        ],
+        "url": "https://casepuppy.vercel.app"
       }
     ]
   }
