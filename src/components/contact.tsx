@@ -21,7 +21,7 @@ function Contact() {
 
   const portfolio_urls: Record<string, string> = {
     en: "resume.pdf",
-    fr: "resume.pdf"
+    fr: "resume_vf.pdf"
   };
 
   return (
