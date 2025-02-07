@@ -20,7 +20,7 @@
     },
     "location": {
       "postalCode": "111160",
-      "city": "Sale",
+      "city": "Casablanca",
       "countryCode": "MA",
       "region": "Morocco"
     },
@@ -207,6 +207,10 @@
       },
       {
         "name": "React",
+        "level": "Basics"
+      },
+      {
+        "name": "NextJS",
         "level": "Basics"
       },
       {

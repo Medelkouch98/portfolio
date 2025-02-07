@@ -20,7 +20,7 @@
     },
     "location": {
       "postalCode": "111160",
-      "city": "Salé",
+      "city": "Casablanca",
       "countryCode": "MA",
       "region": "Maroc"
     },
@@ -173,6 +173,7 @@
       { "name": "FastApi", "level": "Intermédiaire" },
       { "name": "Unit test", "level": "Intermédiaire" },
       { "name": "React", "level": "Débutant" },
+      { "name": "NextJS", "level": "Débutant" },
       { "name": "Firebase", "level": "Intermédiaire" },
       { "name": "OpenAI API", "level": "Intermédiaire" },
       { "name": "AWS", "level": "Intermédiaire" },
